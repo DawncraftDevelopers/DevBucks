@@ -101,4 +101,14 @@ ENV/
 .mypy_cache/
 
 # Modules
-modules/
+discord/
+websockets/
+aiohttp/
+multidict/
+yarl/
+async_timeout/
+chardet/
+
+# Private data
+*.xml
+token.txt
